@@ -42,7 +42,7 @@ def check_last_index(k,w,n):
 
     return binary[index]
 
-
+print("zad 1.2:")
 print("test 1:")
 print(check_last_index(k = 3, w = 5, n = 19))
 print("test 2:")

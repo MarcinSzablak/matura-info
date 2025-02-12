@@ -13,13 +13,14 @@ def zad_3_1(file):
     print(counter)
     file.close()
 
+print("zad 3.1:")
 print("test 1:")
-file = open("slowa_przyklad.txt", "r")
+file = open("pliki_do_zadan/slowa_przyklad.txt", "r")
 zad_3_1(file=file)
 
 # rozwiązanie: 26
 print("rozwiązanie 1:")
-file2 = open("slowa.txt", "r")
+file2 = open("pliki_do_zadan/slowa.txt", "r")
 zad_3_1(file=file2)
 
 
@@ -28,7 +29,7 @@ def make_word_with_pushed_letters(word):
     normal_letters = "abcdefghijklmnopqrstuvwxyz"
     pushed_letters = "nopqrstuvwxyzabcdefghijklm"
 
-    new_word = "" 
+    new_word = ""
 
     for x in word:
         index = normal_letters.index(x)
@@ -41,17 +42,18 @@ def zad_3_2(file):
         l = line.strip()
         new_word = make_word_with_pushed_letters(l)
         if l[::-1] == new_word:
-            counter += 1 
+            counter += 1
     file.close()
     return counter
-        
+
+print("zad 3.2:")
 print("test 2:")
-file = open("slowa_przyklad.txt", "r")
+file = open("pliki_do_zadan/slowa_przyklad.txt", "r")
 print(zad_3_2(file = file))
 
 #rozwiązanie: 5
 print("rozwiązanie 2:")
-file = open("slowa.txt", "r")
+file = open("pliki_do_zadan/slowa.txt", "r")
 print(zad_3_2(file = file))
 
 #zad 3.3
@@ -64,8 +66,8 @@ def check_count_of_letters(word):
     for x in count:
         if x >= len(word)/2:
             return True
-        else: 
-            False
+        else:
+            return False
 
 def zad_3_3(file):
     tab = []
@@ -76,13 +78,15 @@ def zad_3_3(file):
     file.close()
     return tab
 
+
+print("zad 3.3:")
 print("test 3:")
-file = open("slowa_przyklad.txt", "r")
+file = open("pliki_do_zadan/slowa_przyklad.txt", "r")
 print(zad_3_3(file = file))
 
 # rozwiązanie:
 # ['vzwzwgszezvzzlzzzzzzouz', 'azaaasfakaaaxbaaaaau', 'ppppppnoppnoclpop', 'zggggggpegpnovzgg', 'nyrpvqycpaylffffffffffffff', 'kkkkkkkkkkwpijccdbl', 'tstevttebttktnetitbttti', 'gvsvjvvvvvqppvuvcvvvi']
- 
+
 print("rozwiązanie 3:")
-file = open("slowa.txt", "r")
+file = open("pliki_do_zadan/slowa.txt", "r")
 print(zad_3_3(file = file))

@@ -6,6 +6,8 @@ def F(x, y = 0):
         result = F(x//2, y+1)
         return [2 + result[0] , result[1]]
 
+
+print("zad 2.1:")
 print("test 1:")
 print(F(3))
 print("test 2:")
@@ -30,6 +32,7 @@ def find():
 
     print(tab1)
 
+print("zad 2.2:")
 find()
 
 #min = 256
