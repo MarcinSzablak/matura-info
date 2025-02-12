@@ -1,0 +1,5 @@
+zad 3.1 = 26
+zad 3.2 = 5
+zad 3.3 = ['vzwzwgszezvzzlzzzzzzouz', 'azaaasfakaaaxbaaaaau',
+'ppppppnoppnoclpop', 'zggggggpegpnovzgg', 'nyrpvqycpaylffffffffffffff',
+'kkkkkkkkkkwpijccdbl', 'tstevttebttktnetitbttti', 'gvsvjvvvvvqppvuvcvvvi']

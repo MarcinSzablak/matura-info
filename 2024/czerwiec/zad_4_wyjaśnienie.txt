@@ -1,0 +1,16 @@
+mamy naszą tabele 
+zadanie jest proste jak się je zrozumie wystarczy popatrzeć
+na 2 pierwsze wiersze i można je rozwiązać
+bo 1->4, 2->3, 3->5, 4->3, 5->1, 6->2
+co oznacza że zawsze z pakietu 1 idziesz do pakietu 4 
+a z pakietu 2 idziesz do 3 idt. 
+
+w każdym z tych zadań są podane inne przechodzenia
+
+\ 1 | 2 | 3 | 4 | 5 | 6 | - nr pakietu / #
+1|4   3   5   3   1   2
+2|3   5   1   5   4   3
+3|
+4|
+5|
+6|

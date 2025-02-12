@@ -20,7 +20,6 @@ def to_binary(n):
 
     return binary
 
-
 #less code but you need to reverse array
 def to_binary_with_reverse(n):
     if n == 0:
