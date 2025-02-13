@@ -1,0 +1,7 @@
+zad 7.2:
+2023.10.16 - 11141
+2023.10.27 - 11639
+zad 7.3
+2023-02-20 - data kiedy woda się skończy
+7 - ilość dni bez wody
+291 - butelek na bezproblemowy rok

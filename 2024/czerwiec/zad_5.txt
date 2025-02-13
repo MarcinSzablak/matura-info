@@ -1,2 +1,9 @@
-1. P
-2. F
+https://pl.wikipedia.org/wiki/Prawo_autorskie
+
+1. Ochrona praw autorskich przysługuje twórcy niezależnie od
+spełnienia jakichkolwiek formalności
+P
+
+2. Programy komputerowe nie są dziełami chronionymi prawami
+autorskimi
+F
