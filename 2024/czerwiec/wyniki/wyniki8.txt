@@ -1,0 +1,9 @@
+zad 8.1:
+kwerenda która zwraca wynik to zad_8_1
+
+zad 8.2:
+sz12_3d: 24
+kobiet: 17
+
+zad 8.3:
+05.2023 - 48 osób
