@@ -10,3 +10,7 @@ Reneta
 zad 7.3:
 w pliku wynik7_3.png
 
+zad 7.4:
+
+ile transakcji: 180
+suma rabatu: 3089,10
