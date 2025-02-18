@@ -1,0 +1,15 @@
+zad 8.1:
+Rafael Blake
+3700
+
+zad 8.2:
+listopad
+1766 punktów karnych
+
+zad 8.3:
+wynik8_3.png
+
+zad 8.4:
+SELECT Fotoradar.IdFotoradaru FROM Fotoradar
+LEFT JOIN Rejestr ON Fotoradar.IdFotoradaru = Rejestr.IdFotoradaru
+WHERE Rejestr.IdFotoradaru IS NULL
