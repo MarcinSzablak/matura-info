@@ -1,0 +1,6 @@
+jak rozwiązać:
+możemy otworzyć kalkulator, włączyć kalkulator programistyczny i podać liczby do konwersji
+19 - 10011 - (1, 2, 5)
+6 - 110 - (2, 3)
+42 - 101010 (2, 4, 6)
+(1, 2, 4, 7) - 1001011 - 75

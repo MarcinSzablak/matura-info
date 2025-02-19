@@ -1,0 +1,11 @@
+zad 3.1:
+pierwsza liczba 4489
+łączna liczba 20
+
+zad 3.2:
+[2310, 2730, 4290, 4620, 4830, 6630, 6930, 7770, 8190, 8610]
+
+zad 3.3:
+wieksze:  1052
+mniejsze:  947
+równe: 1 [6174]
