@@ -77,17 +77,17 @@ def zad_4_3(_file):
     five_ractangles = 0
 
     for x in range(len(tab)):
-        if x >= len(tab) - 1:
+        if x+1 >= len(tab) - 1:
             break
         if tab[x][0] == tab[x+1][0] and two_ractangles < tab[x][1] + tab[x+1][1]:
                 two_ractangles = tab[x][1] + tab[x+1][1]
     for x in range(len(tab)):
-        if x >= len(tab) - 1:
+        if x+2 >= len(tab) - 1:
             break
         if tab[x][0] == tab[x+1][0] == tab[x+2][0] and three_ractangles < tab[x][1] + tab[x+1][1] + tab[x+2][1]:
             three_ractangles = tab[x][1] + tab[x+1][1] + tab[x+2][1]
     for x in range(len(tab)):
-        if x >= len(tab) - 1:
+        if x+4 >= len(tab) - 1:
             break
         if tab[x][0] == tab[x+1][0] == tab[x+2][0] == tab[x+3][0] == tab[x+4][0] and five_ractangles < tab[x][1] + tab[x+1][1] + tab[x+2][1] + tab[x+3][1] + tab[x+4][1]:
             five_ractangles = tab[x][1] + tab[x+1][1] + tab[x+2][1] + tab[x+3][1] + tab[x+4][1]
