@@ -2,5 +2,6 @@
 ## Zrobione:
 - Czerwiec 2024
 - Maj 2024
-## To Do:
 - Grudzień 2024
+## To Do:
+
