@@ -1,0 +1,33 @@
+zad 8.1:
+177
+
+zad 8.2:
+wymiana płynu chłodniczego 29 razy:
+daewoo
+saab
+volkswagen
+bmw
+kia
+lancia
+mazda
+honda
+nissan
+
+zad 8.3:
+897 (1340 łączna cena)
+SB 3799 - wymiana sprzegla
+SB 3799 - wymiana amortyzatora tyl
+SB 5822 - wymiana paska rozrzadu
+SB 5822 - wymiana oleju silnikowego z filtrem
+SB 9213 - ozonowanie ukladu klimatyzacji i kabiny
+SB 9213 - felga stalowa do 16 cali
+
+zad 8.4:
+11 - 150530
+12 - 105860
+
+zad 8.5:
+SELECT wlasciciele.imie, wlasciciele.nazwisko FROM wlasciciele
+JOIN Samochody ON wlasciciele.id_wlasciciela = Samochody.id_wlasciciela
+WHERE Samochody.nr_rejestracyjny LIKE 'SH%' AND Samochody.rok_produkcji = 2020
+ORDER BY wlasciciele.nazwisko
