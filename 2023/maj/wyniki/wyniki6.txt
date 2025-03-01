@@ -1,0 +1,12 @@
+zad 6.2:
+19
+
+zad 6.3:
+malina-porzeczka: 41
+malina-truskawka: 72
+truskakwa-porzeczka: 40
+
+zad 6.4:
+malina-porzeczka: 18008
+malina-truskawka: 29732
+truskakwa-porzeczka: 18382

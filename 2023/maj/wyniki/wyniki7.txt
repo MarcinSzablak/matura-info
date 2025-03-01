@@ -1,0 +1,28 @@
+zad 7.1:
+k2 - 48
+
+zad 7.2:
+5 sekund - 8,16
+Avalone - 8,25
+Colt Express - 7,54
+Jenga - 8,16
+Koncept - 8,37
+Mamy szpiega - 8,22
+Przebiegle wielblady - 7,73
+Sushi Go - 8,07
+Swiatiowy Konflikt - 7,80
+Szeryf z Nottingham - 7,88
+
+zad 7.3:
+334
+
+zad 7.4:
+juniorzy - K2 - 6
+juniorzy - Terraformacja Marsa - 6
+seniorzy - K2 - 24
+weterani - Robinson Crusoe - 28
+
+zad 7.5:
+SELECT SUM(cena) FROM Sklep
+INNER JOIN Gry ON Sklep.id_gry = Gry.id_gry
+WHERE Sklep.promocja = true AND Gry.kategoria = "logiczna"
