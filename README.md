@@ -3,5 +3,6 @@
 - Czerwiec 2024
 - Maj 2024
 - Grudzień 2024
-## To Do:
 - Maj 2023
+## To Do: 
+- Czerwiec 2023
