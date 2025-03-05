@@ -1,0 +1,8 @@
+slowa1:
+tak
+
+slowa2:
+nie
+
+slowa3:
+nie
