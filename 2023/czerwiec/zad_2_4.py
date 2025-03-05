@@ -29,12 +29,23 @@ def zad_2_3(slowo, n):
         tab[miejsce] = i + 1
         miejsce = 0
 
-    return tab
+    return tab[0]
 
-test1 = "mascarpone"
-slowo1 = list(test1)
-test2 = "kalafiorowa"
-slowo2 = list(test2)
+def zad_2_4(file):
+    for line in file:
+        l = line.strip().split()
+        n  = int(l[0])
+        slowo = list(l[1])
+        slowo_copy = list(l[1])
 
-print(zad_2_3(slowo1, len(test1)),slowo1)
-print(zad_2_3(slowo2, len(test2)),slowo2)
+        index = zad_2_3(slowo_copy, n)
+
+        #print(index)
+        print("".join(slowo[index-1:]))
+
+
+file_test = open("pliki_do_zadan/DANE_M/sufiks_4.txt","r")
+file = open("pliki_do_zadan/DANE_M/slowa4.txt","r")
+zad_2_4(file_test)
+print("wyniki:")
+zad_2_4(file)
