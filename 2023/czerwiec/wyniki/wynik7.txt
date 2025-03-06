@@ -1,0 +1,9 @@
+zad 7.1:
+phone - 2814
+tablet - 267
+pc - 16
+
+zad 7.2:
+samsung - 478
+
+zad 7.3:
