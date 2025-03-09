@@ -7,3 +7,17 @@ zad 7.2:
 samsung - 478
 
 zad 7.3:
+SWITZERLAND - 5,28
+SLOVENIA - 4,35
+IRELAND - 3,91
+AUSTRIA - 3,84
+CZECH REPUBLIC - 3,76
+
+zad 7.4:
+11935, Galaxy Tab A (2016), 20
+
+zad 7.5:
+SELECT Firmy.nazwa, COUNT(Instalacje.data_i) AS Ilosc_instalacji FROM Firmy
+JOIN Instalacje ON Firmy.id_firmy = Instalacje.id_firmy
+GROUP BY Firmy.nazwa
+ORDER BY Ilosc_instalacji DESC;
