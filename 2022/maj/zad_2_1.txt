@@ -2,6 +2,14 @@ n - długość tablicy S
 S - tablica
 a, b - wartość możliwe w S
 
+aababb -> 5
+(0, 1, 2, 2, 3, 3, 3)
+(3, 3, 3, 2, 2, 1, 0)
+
+baabbaaab -> 4
+A = (0, 0, 1, 2, 2, 2, 3, 4, 5, 5)
+B = (4, 3, 3, 3, 2, 1, 1, 1, 1, 0)
+
 
 s = aabab
 n= 5
