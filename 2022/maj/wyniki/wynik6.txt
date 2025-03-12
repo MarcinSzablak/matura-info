@@ -1,0 +1,19 @@
+zad 6.1:
+165
+
+zad 6.2:
+poniedziałek - 233
+wtorek - 303
+środa - 134
+czwartek - 280
+piątek - 127
+
+zad 6.3:
+Sebastian Rabaj, 314 , 2378 min
+Monika Kado, 172, 2346 min
+Alicja Kronecka, 299, 2316 min
+
+zad 6.4:
+Mateusz Kordas, 4e
+Krzysztof Michalak, 3d
+Oliwier Ziolko, 4e
