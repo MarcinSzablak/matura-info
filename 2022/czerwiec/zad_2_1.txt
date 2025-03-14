@@ -1,0 +1,39 @@
+Funkcja Koduj(n):
+    jeżeli n = 1
+        wynikiem jest ''
+    w przeciwnym wypadku
+        k <- n div 2
+        jeżeli k mod 2 = 0
+            wynikiem jest Koduj(k) + 'A'
+        w przeciwnym wypadku
+            wynikiem jest 'B' + Koduj(k)
+
+
+n = 12
+k = 6
+6 + "A"
+n = 6
+k = 3
+B + 3
+B + 1
+
+BBA
+
+33
+A 16
+A 8
+A 4
+A 2
+1
+BAAAA
+
+B 158
+B 79
+B 39
+B 19
+B 9
+A 4
+A 2
+1
+
+BBBBBAA
