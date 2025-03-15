@@ -6,5 +6,6 @@
 - Maj 2023
 - Czerwiec 2023
 - Maj 2022
-## To Do: 
 - Czerwiec 2022
+## To Do:
+- Grudzień 2022
