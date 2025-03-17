@@ -1,0 +1,1 @@
+jak przyjżymy się drzewku to trzeba zauważyć że ilość powstałych strzałek odpowiada ilośći długości tej liczby w zapisie binarnym - 1

@@ -1,0 +1,57 @@
+x = 1
+
+2 =< 10:
+    strzałka(1, 2)
+    rysuj(2)
+
+    4 =< 10:
+        strzałka(4, 8)
+        rysuj(4)
+
+        8 =< 10:
+            strzałka(8, 16)
+            rysuj(8)
+
+            16 =< 10: FAŁSZ
+
+            17 =< 10: FAŁSZ
+
+        9 =< 10:
+            strzałka(9, 18)
+            rysuj(9)
+
+            18 =< 10: FAŁSZ
+
+            19 =< 10: FAŁSZ
+
+    5 =< 10:
+        strzałka(5, 10)
+        rysuj(5)
+
+        10 =< 10:
+            strzałka(10, 20)
+            rysuj(10)
+
+            20 =< 10: FAŁSZ
+
+            21 =< 10: FAŁSZ
+
+        11 =< 10: FAŁSZ
+
+3 =< 10:
+    strzałka(1, 3)
+    rysuj(3)
+
+    6 =< 10:
+        strzałka(6, 12)
+        rysuj(6)
+
+        12 =< 10: FAŁSZ
+
+        13 =< 10: FAŁSZ
+    7 =< 10:
+        strzałka(7, 14)
+        rysuj(7)
+
+        14 =< 10: FAŁSZ
+        15 =< 10: FAŁSZ
