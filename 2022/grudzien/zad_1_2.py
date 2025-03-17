@@ -7,10 +7,10 @@ def zad_1_2(tab):
         else:
             B += 1
 
-        if A >= 1000 and A - B >= 4:
+        if A >= 1000 and A - B >= 3:
             print(A, ":", B , "A")
             A = B = 0
-        elif B >= 1000 and B - A >= 4:
+        elif B >= 1000 and B - A >= 3:
             print(A, ":", B, "B")
             A = B = 0
 

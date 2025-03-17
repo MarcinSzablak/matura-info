@@ -1,7 +1,7 @@
 def zad_1_1(tab):
-    counter = 0 
-    for x in range(0, len(tab) - 1):
-        if tab[x] != tab[x + 1]:
+    counter = 0
+    for x in range(1, len(tab) - 1):
+        if tab[x - 1] != tab[x]:
             counter += 1
     return counter
 

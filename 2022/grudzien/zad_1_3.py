@@ -1,18 +1,13 @@
 def zad_1_3(tab):
     passy = 0
-    A = 0 
+    A = 0
     B = 0
 
     maks = (0, "")
-    
-    for i in range(0, len(tab) - 1):
-        if i == len(tab) - 2 and tab[i] == 'A' and tab[i] == tab[i + 1]:
-            A += 1
-        elif i == len(tab) - 2 and tab[i] == 'B' and tab[i] == tab[i + 1]:
-            B += 1 
 
+    for i in range(0, len(tab) - 1):
         if tab[i] == tab[i + 1] and tab[i] == 'A':
-            A += 1 
+            A += 1
         elif tab[i] == tab[i + 1] and tab[i] == 'B':
             B += 1
 
@@ -25,10 +20,10 @@ def zad_1_3(tab):
             elif maks[0] < B:
                 maks = (B, "B")
 
-            A = 0
-            B = 0
+            A = 1
+            B = 1
 
-    return passy, maks
+    return passy, maks[1], maks[0]
 
 
 
