@@ -1,0 +1,16 @@
+1. F
+2. F
+3. P
+4. P
+
+parseInt("10000000", 2) - 128
+parseInt("A9", 16) - 169
+
+parseInt("1111", 4) - 85
+parseInt("1111111", 2) - 127
+
+parseInt("3003", 4) - 195
+parseInt("C2", 16) - 194
+
+parseInt("333", 8) - 219
+parseInt("10100101", 2) - 165
