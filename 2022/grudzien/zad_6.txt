@@ -1,0 +1,6 @@
+Protokół wysyłania poczty elektronicznej: SMTP
+Protokół przesyłania plików: FTP
+Szyfrowany protokół przesyłania dokumentów hipertekstowych: HTTPS
+Protokół odbierania poczty elektronicznej: IMAP
+
+lokacja do pliku z services: C:/Windows/System32/drivers/etc/services

@@ -23,3 +23,14 @@ zad 5.3:
 415
 416
 418
+
+zad 5.4:
+SELECT rodzaj, COUNT(id_pobytu) FROM uslugi_dodatkowe
+GROUP BY rodzaj
+
+zad 5.5:
+SELECT klienci.imie, klienci.nazwisko, SUM(uslugi_dodatkowe.cena_uslugi)
+FROM uslugi_dodatkowe
+INNER JOIN noclegi ON noclegi.id_pobytu = uslugi_dodatkowe.id_pobytu
+INNER JOIN klienci ON noclegi.nr_dowodu = klienci.nr_dowodu
+GROUP BY klienci.imie, klienci.nazwisko
