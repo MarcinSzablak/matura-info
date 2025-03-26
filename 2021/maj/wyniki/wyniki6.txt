@@ -1,0 +1,60 @@
+zad 6.1:
+Polska 11
+Stany Zjednoczone 8
+Francja 7
+Rosja 6
+Niemcy 6
+
+zad 6.2:
+35
+
+zad 6.3:
+22
+24
+29
+35
+36
+37
+38
+47
+54
+61
+64
+72
+110
+114
+115
+122
+123
+138
+141
+167
+
+zad 6.4:
+robotnik 5
+lekki jezdziec 19
+piechur 7
+architekt 1
+mag powietrza 3
+kawalerzysta 7
+konny lucznik 4
+zwiadowca 4
+pikinier 5
+kaplan 2
+artylerzysta 4
+topornik 5
+mag wody 2
+ifryt 1
+goniec 2
+kusznik 1
+drwal 3
+wysoki elf-gwardzista 1
+ciemny elf 1
+paladyn 1
+elfi czarodziej 1
+balista 2
+lucznik 1
+
+zad 6.5:
+a. 1067
+b. 
