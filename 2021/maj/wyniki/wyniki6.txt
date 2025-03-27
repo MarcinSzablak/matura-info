@@ -56,5 +56,5 @@ balista 2
 lucznik 1
 
 zad 6.5:
-a. 1067
-b. 
+a. 1061
+b. 245
