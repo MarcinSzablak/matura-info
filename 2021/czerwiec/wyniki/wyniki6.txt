@@ -1,0 +1,42 @@
+zad 6.1:
+122
+
+zad 6.2:
+Piotrkow Trybunalski
+Grudziadz
+
+zad 6.3:
+8 swietokrzyskie
+7 opolskie
+7 lodzkie
+6,5 lubuskie
+5,53 slaskie
+5,53 malopolskie
+5 podkarpackie
+5 lubelskie
+4,75 dolnoslaskie
+4,25 wielkopolskie
+4,25 kujawsko-pomorskie
+4 zachodniopomorskie
+4 warminsko-mazurskie
+4 podlaskie
+2,67 pomorskie
+2,67 mazowieckie
+
+zad 6.4:
+Male nutki
+Stare mandoliny
+Wiosenne bebny
+Powolne fortepiany
+Ciche organy
+Fajne trojkaty
+Rozstrojone pianina
+Metalowe klarnety
+Zlote saksofony
+Piszczace trabki
+
+zad 6.5:
+nazwa; weekendy; robocze;
+Niebieskie kontrabasy 4 1
+Wiosenne bebny 4 3
+Powolne fortepiany 5 4
