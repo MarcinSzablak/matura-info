@@ -22,4 +22,4 @@ c. 66
 
 zad 5.4:
 przychód: 249630
-wydatki: 100520
+wydatki: 100655
