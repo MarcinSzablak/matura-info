@@ -1,18 +1,3 @@
-def to_bin(n):
-    binarna = []
-    dlugosc_bin = 0
-    while n >= 1:
-        binarna += [n % 2]
-        n = n // 2
-        dlugosc_bin += 1
-
-    nowa_binarna = []
-
-    for x in range(dlugosc_bin - 1, -1, -1):
-        nowa_binarna += [binarna[x]]
-
-    return nowa_binarna, dlugosc_bin
-
 def zad_1_2(k, x, y):
     runda = 0
 
