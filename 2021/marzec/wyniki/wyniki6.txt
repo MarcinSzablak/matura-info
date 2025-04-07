@@ -1,0 +1,21 @@
+zad 6.1:
+Chris Froome 83:56:40
+
+zad 6.2:
+Maciej Bodnar 5
+
+zad 6.3:
+rok; data; imie; nazwisko
+2008 19.09.1986 Gerald Ciolek
+2009 26.01.1987 Rigoberto Uran
+2010 29.03.1990 Fabio Felline
+2011 11.09.1989 Anthony Delaplace
+2012 29.05.1990 Thibaut Pinot
+2013 26.07.1993 Danny; van Poppel
+2014 26.07.1993 Danny; van Poppel
+2015 23.01.1994 Merhawi Kudus
+2016 17.12.1993 Sondre Holst; Enger
+2017 01.07.1995 Elie Gesbert
+
+zad 6.4:
+2012 – 46
