@@ -1,0 +1,4 @@
+zad 1.1:
+5. prawda
+6. 4
+7. fałsz
