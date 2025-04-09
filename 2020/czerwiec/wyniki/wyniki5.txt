@@ -1,0 +1,49 @@
+zad 5.1:
+Rodzina	ile języków
+nigero-kongijska	137
+austronezyjska	65
+indoeuropejska	63
+sino-tybetanska	43
+nilo-saharyjska	30
+afroazjatycka	28
+dajska	23
+austroazjatycka	20
+drawidyjska	15
+turecka	15
+jezyk izolowany	8
+otomang	7
+polnocno-wschodniokaukaska	7
+majanska	5
+mongolska	5
+hmong-mien	4
+uralska	3
+abchasko-adygijska	3
+na-dene	1
+tungusko-mandzurska	1
+algijska	1
+uto-aztecka	1
+keczua	1
+tupi	1
+
+zad 5.2:
+445
+
+zad 5.3:
+arabski	5
+gudzaracki	4
+tamilski	4
+angielski	4
+
+zad 5.4:
+mandarynski	sino-tybetanska	3,1
+arabski	afroazjatycka	2,7
+tagalog	austronezyjska	1,9
+wietnamski	austroazjatycka	1,5
+nahuatl	uto-aztecka	1,4
+koreanski	jezyk izolowany	1,2
+
+zad 5.5:
+Panstwo	Jezyk	Procent
+Etiopia	oromo	35,51
+Indonezja	jawajski	32,73
+Pakistan	pendzabski	40,44
